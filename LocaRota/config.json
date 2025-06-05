@@ -1,0 +1,41 @@
+{
+  "param": {
+    "population_size": 100,
+    "selection_size": 20,
+    "crossover_gene_size": 3,
+    "mutation_individual_rate": 0.1,
+    "mutation_gene_size": 1,
+    "generations": 1500,
+    "penalty": 0,
+    "capacity": 1000
+  },
+  "cidades": {
+    "Aracaju": [-10.9091, -37.0677],
+    "Belem": [-1.4554, -48.4898],
+    "Belo Horizonte": [-19.8157, -43.9542],
+    "Boa Vista": [2.81972, -60.6733],
+    "Brasilia": [-15.7939, -47.8828],
+    "Campo Grande": [-20.4486, -54.6295],
+    "Cuiaba": [-15.601, -56.0974],
+    "Curitiba": [-25.4297, -49.2719],
+    "Florianopolis": [-27.5954, -48.548],
+    "Fortaleza": [-3.71722, -38.5433],
+    "Goiania": [-16.6864, -49.2643],
+    "Joao Pessoa": [-7.11509, -34.8641],
+    "Macapa": [0.03493, -51.0694],
+    "Maceio": [-9.66599, -35.735],
+    "Manaus": [-3.10194, -60.025],
+    "Natal": [-5.79448, -35.211],
+    "Palmas": [-10.1849, -48.3336],
+    "Porto Alegre": [-30.0346, -51.2177],
+    "Porto Velho": [-8.76077, -63.8999],
+    "Recife": [-8.04666, -34.8771],
+    "Rio Branco": [-9.97499, -67.8243],
+    "Rio de Janeiro": [-22.9068, -43.1729],
+    "Salvador": [-12.9718, -38.5011],
+    "Sao Luis": [-2.52972, -44.3028],
+    "Sao Paulo": [-23.55052, -46.633309],
+    "Teresina": [-5.09194, -42.8034],
+    "Vitoria": [-20.3155, -40.3128]
+  }
+}
